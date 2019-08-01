@@ -15,4 +15,6 @@ of actually implementing a line text editor does provide not only an instructive
 experience but also plenty of opportunity to practice using the STL sequential container classes
 and iterators.
 
-[image]https://github.com/xerun/LineEditorInCmd/blob/master/image.png
+## Commands
+Below are the commads to use for reading a text file and insert, edit, join or delete lines inside the text file.
+![Image 1](https://github.com/xerun/LineEditorInCmd/blob/master/image.png)

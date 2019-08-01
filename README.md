@@ -15,3 +15,4 @@ of actually implementing a line text editor does provide not only an instructive
 experience but also plenty of opportunity to practice using the STL sequential container classes
 and iterators.
 
+[image]https://github.com/xerun/LineEditorInCmd/blob/master/image.png
